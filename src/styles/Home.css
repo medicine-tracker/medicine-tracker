@@ -1,0 +1,10 @@
+/* *{
+    background-color: #f3fdfa;
+ 
+} */
+.blurr {
+    background: radial-gradient(#85E7CF 0%, transparent 60%);
+    height: 17rem;
+    width: 25rem;
+    z-index: -1;
+}

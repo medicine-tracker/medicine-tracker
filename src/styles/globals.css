@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.nav-links {
+    @apply cursor-pointer hover:text-slate-800 hover:-translate-y-0.5 ease-in duration-100
+}
